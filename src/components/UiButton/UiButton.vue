@@ -21,7 +21,7 @@ const props = withDefaults(defineProps<IProps>(), {
 .button {
   position: relative;
   display: inline-flex;
-  gap: 8px;
+  gap: 10px;
   align-items: center;
   justify-content: center;
   height: 40px;
